@@ -1,4 +1,4 @@
-# Recon Methodology 
+# Bug Bounty Notes
 
 ### Commonly used HTTP methods
 - GET - to fetch data
@@ -18,3 +18,7 @@
 - 505 = Internal error
 
 ## Open Redirect
+
+## Bug Bounty Toolkit
+
+https://github.com/AlexisAhmed/BugBountyToolkit
