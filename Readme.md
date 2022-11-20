@@ -22,3 +22,6 @@
 ## Bug Bounty Toolkit
 
 https://github.com/AlexisAhmed/BugBountyToolkit
+
+## Bug Bounty Writeup Collection
+https://github.com/ngalongc/bug-bounty-reference#readme
