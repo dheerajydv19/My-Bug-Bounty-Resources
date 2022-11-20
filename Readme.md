@@ -28,3 +28,6 @@ https://github.com/ngalongc/bug-bounty-reference#readme
 
 ## All in one Recon Tool
 https://github.com/D3Ext/AORT
+
+## HowToHunt
+https://kathan19.gitbook.io/howtohunt/
