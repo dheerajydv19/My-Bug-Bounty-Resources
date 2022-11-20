@@ -2,6 +2,7 @@
 
 - [ ] wappaylzer
 - [ ] Builtwith
+- [ ] [dnsx](https://github.com/projectdiscovery/dnsx)
 - [ ] httpx
 
   you can use httpx `-web-server` and `-tech-detect` options
@@ -80,7 +81,7 @@
   Accept: */*
   ```
 
-  
+- [Subfinder](https://github.com/projectdiscovery/subfinder)
 
   ```bash
   ffuf -w http_headers_names.txt:NAME -w http_headers_values.txt:VALUE -w endpoints.txt:ENDPOINT -request http_request.txt  -H "NAME: VALUE"
