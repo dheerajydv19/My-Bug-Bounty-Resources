@@ -31,3 +31,6 @@ https://github.com/D3Ext/AORT
 
 ## HowToHunt
 https://kathan19.gitbook.io/howtohunt/
+# Pentration List
+
+https://github.com/AlbusSec/Penetration-List
