@@ -7,6 +7,8 @@
  6. inurl:.gov not for distribution | confidential | “employee only” | proprietary | top secret | classified | trade secret | internal | private filetype:txt
  7. 
 
-
+# Content Discovery
+Wordlist for fuzzing 
+https://github.com/AlbusSec/Penetration-List/tree/main/Information%20Disclosure%20-01/Sensitive-Directory-list
 
 https://pentest-tools.com/information-gathering/google-hacking
