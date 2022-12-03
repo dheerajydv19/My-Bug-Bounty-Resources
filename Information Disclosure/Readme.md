@@ -5,7 +5,8 @@
  4. inurl:.gov not for distribution | confidential | “employee only” | proprietary | top secret | classified | trade secret | internal | private filetype:csv
  5. inurl:.gov not for distribution | confidential | “employee only” | proprietary | top secret | classified | trade secret | internal | private filetype:doc
  6. inurl:.gov not for distribution | confidential | “employee only” | proprietary | top secret | classified | trade secret | internal | private filetype:txt
- 7. 
+ 7. index of / site: /etc/certs + “index of /” */* site:example.com
+ 8. 
 https://pentest-tools.com/information-gathering/google-hacking
 
 # Content Discovery
