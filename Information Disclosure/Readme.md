@@ -7,6 +7,10 @@
  6. inurl:.gov not for distribution | confidential | “employee only” | proprietary | top secret | classified | trade secret | internal | private filetype:txt
  7. index of / site: /etc/certs + “index of /” */* site:example.com
  8. index of /.git site:example.com
+ 9. inurl:/proc/self/cwd
+ 10. filetype:log username putty
+ 11. filetype:xls inurl:"email.xls"
+ 
 https://pentest-tools.com/information-gathering/google-hacking
 
 # Content Discovery
