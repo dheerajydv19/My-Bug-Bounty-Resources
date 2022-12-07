@@ -17,4 +17,6 @@ https://pentest-tools.com/information-gathering/google-hacking
 Wordlist for fuzzing 
 - https://github.com/AlbusSec/Penetration-List/tree/main/Information%20Disclosure%20-01/Sensitive-Directory-list
 
+# Github Dorking
 
+https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f
