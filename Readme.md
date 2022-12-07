@@ -36,4 +36,7 @@ https://kathan19.gitbook.io/howtohunt/
 https://github.com/AlbusSec/Penetration-List
 
 ## List of All T00ls
+https://medium.com/@chathurangabw/a-curated-list-of-various-bug-bounty-tools-5c5af7e4f301
+
+
 
