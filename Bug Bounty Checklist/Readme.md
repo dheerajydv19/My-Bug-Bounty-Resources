@@ -236,3 +236,12 @@ Example:
     - try to craft a special payload to get and RCE
   - [ ] check this [cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html) 
   - [ ] [Java Deserialization Scanner](https://github.com/PortSwigger/java-deserialization-scanner) : a Burp Suite plugin to detect and exploit Java deserialization vulnerabilities
+
+## OSINT tips for penetration testing 
+
+  - [ ] Searching pieces of code of that website on github 
+  - [ ] Using gitleaks
+  - [ ] try to search for “http://” or “https://” in organization's repository
+  - [ ] 
+  - [ ]
+  - [ ]
