@@ -3,10 +3,11 @@
 ## Account Takeover Checklist
 
 - login:
+    - [ ] Try registering any email address without verifying it and then tries to login with same email using any other sigh in method
     - [ ] check if you are able to brute force the password
-
+    - [ ] Check for account takeover due to improper rate limit
     - [ ] Test for OAuth misconfigurations
-
+    - [ ]
     - [ ] check if you are able to bruteforce the login OTP
 
     - [ ] check for JWT mesconfigurations
