@@ -11,6 +11,19 @@
  10. filetype:log username putty
  11. filetype:xls inurl:"email.xls"
  
+ # Top google Dorking
+ 1. publicly exposed documents :- site:http://target.com ext:doc | ext:docx | ext:odt | ext:rtf | ext:sxw | ext:psw | ext:ppt | ext:pptx | ext:pps | ext:csv
+ 2. Directory listing bug :- site:http://target.com intitle:index.of
+ 3. Configuration files :- site:http://target.com ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini | ext:env
+ 4. database file exposed :- site:http://target.com ext:sql | ext:dbf | ext:mdb
+ 5. Log files exposed :- site:http://target.com ext:log
+ 6. Backup and old files :- site:http://target.com ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup
+ 7. login page of admin pannel :- site:http://target.com inurl:login | inurl:signin | intitle:Login | intitle:"sign in" | inurl:auth
+ 8. php errors/warning :- site:http://target.com "PHP Parse error" | "PHP Warning" | "PHP Error"
+ 9. sql error :- site:site.com1 intext:"sql syntax near" | intext:"syntax error has occurred" | intext:"incorrect syntax near" | intext:"unexpected end of SQL command" | intext:"Warning: mysql_connect()" | intext:"Warning: mysql_query()" | intext:"Warning: pg_connect()"
+ 10. signup page :- site:http://target.com inurl:signup | inurl:register | intitle:Signup
+
+
 https://pentest-tools.com/information-gathering/google-hacking
 
 # Content Discovery
