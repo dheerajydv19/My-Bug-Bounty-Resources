@@ -37,26 +37,26 @@ https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f
 
 # Wordpress juciy endpoints
 
-- wp-admin.php   
-wp-config.php
-wp-content/uploads
-Wp-load
-wp-signup.php
-Wp-json
-wp-includes [directory]
-index.php
-wp-login.php
-wp-links-opml.php
-wp-activate.php
-wp-blog-header.php
-wp-cron.php
-wp-links.php
-wp-mail.php
-xmlrpc.php
-wp-settings.php
-wp-trackback.php
-wp-signup.php
-/_wpeprivate/config.json
+- wp-admin.php  
+- wp-config.php
+- wp-content/uploads
+- Wp-load
+- wp-signup.php
+- Wp-json
+- wp-includes [directory]
+- index.php
+- wp-login.php
+- wp-links-opml.php
+- wp-activate.php
+- wp-blog-header.php
+- wp-cron.php
+- wp-links.php
+- wp-mail.php
+- xmlrpc.php
+- wp-settings.php
+- wp-trackback.php
+- wp-signup.php
+- /_wpeprivate/config.json
 
 
 
